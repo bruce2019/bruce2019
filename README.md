@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruce2019
 - 👀 I’m interested in "Developing Things"
-- 🌱 I’m currently learning, as its still day 1.
+- 🌱 Keep learning, as its still day 1.
 - 💞️ I’m looking to collaborate on React-native projects open source projects
 - 📫 How to reach me rishi_masters@yahoo.com
 
